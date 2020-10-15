@@ -1,13 +1,13 @@
-## Your Name
+## Malachi Spencer
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Technologies Used |
+| ---------------------------- | ----------------- | :-----------------: |
+| **SkyRooms**                 | Real time chat application with users and rooms. My second application and an upgrade on my first, Skynet Chat. You can view SkyRooms [here](https://github.com/malachispencer/skyrooms). | JavaScript, Node.js, Express.js, Socket.io, jQuery, HTML and CSS. |
+| **Skynet Chat**              | Chat application where the user interacts with the computer, which responds with random responses. My first ever application. You can view the app [here](https://github.com/malachispencer/skynet-chat). | JavaScript, jQuery, HTML and CSS.              |
 
 ## Experience
 
