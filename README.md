@@ -1,6 +1,6 @@
 ## Malachi Spencer
 
-Lancaster University philosophy graduate, former sales executive and former fitness [YouTuber](https://www.youtube.com/hypertrophyofficial), I am now looking to make the transition into the world of tech. In January 2020, I started learning Ruby and the fundamentals of programming, by March, I had officially developed an addiction to coding, the [400+ kata](https://www.codewars.com/users/mjsspencer) I've completed on Codewars can attest to that. In June 2020, I started learning JavaScript and by September I had created 2 apps, [Skynet Chat](https://github.com/malachispencer/skynet-chat) and [SkyRooms](https://github.com/malachispencer/skyrooms). Now - at Makers Academy - I'm looking to build on the self-taught skills I've acquired and land a role as a full stack junior developer.
+Lancaster University philosophy graduate, former sales executive and former fitness [YouTuber](https://www.youtube.com/hypertrophyofficial), I am now looking to make the transition into the world of tech. In January 2020, I started learning Ruby and the fundamentals of programming, by March, I had officially developed an addiction to coding - the [400+ kata](https://www.codewars.com/users/mjsspencer) I've completed on Codewars can attest to that. In June 2020, I started learning JavaScript and by September I had created 2 apps, [Skynet Chat](https://github.com/malachispencer/skynet-chat) and [SkyRooms](https://github.com/malachispencer/skyrooms). Now - at Makers Academy - I'm looking to build on the self-taught skills I've acquired and land a role as a full stack junior developer.
 
 ## Projects
 
@@ -14,6 +14,9 @@ Lancaster University philosophy graduate, former sales executive and former fitn
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Problem solver
+
+In order to undertake a degree in philosophy, one must possess an analytical mind and a natural inquisitiveness. These factors, along with the logical thinking skills developed during my degree, plus the obsessive focus I put into any activity I commit to, have moulded me into a competent problem solver. From March 2020 to September 2020 I completed over 400 kata on Codewars, in my [Codewars repository](https://github.com/malachispencer/codewars) you can view my 'write ups'. A write up includes my solution and a detailed explanation of that solution, the explanations provides a window into the soul of my problem solving process.
+
 #### Self-starter
 #### Excellent communicator
 #### Strong work ethic
