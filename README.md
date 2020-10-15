@@ -6,8 +6,26 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Technologies Used |
 | ---------------------------- | ----------------- | :-----------------: |
-| **SkyRooms**                 | Real time chat application with users and rooms. My second application and an upgrade on my first, Skynet Chat. You can view SkyRooms [here](https://github.com/malachispencer/skyrooms). | JavaScript, Node.js, Express.js, Socket.io, jQuery, HTML and CSS. |
-| **Skynet Chat**              | Chat application where the user interacts with the computer, which responds with random responses. My first ever application. You can view the app [here](https://github.com/malachispencer/skynet-chat). | JavaScript, jQuery, HTML and CSS.              |
+| **SkyRooms**                 | Real time chat application with users and rooms. My second application and an upgrade on my first, Skynet Chat. Completed before starting at Makers. You can view SkyRooms [here](https://github.com/malachispencer/skyrooms). | JavaScript, Node.js, Express.js, Socket.io, jQuery, HTML and CSS. |
+| **Skynet Chat**              | Chat application where the user interacts with the computer, which responds with random responses. My first ever application, completed prior to Makers. You can view the app [here](https://github.com/malachispencer/skynet-chat). | JavaScript, jQuery, HTML and CSS.              |
+
+## Skills
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+
+#### Problem solver
+#### Self-starter
+#### Excellent Communicator
+#### Strong work ethic
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Experience
 
@@ -20,25 +38,6 @@ _Your job title_
 _Your job title_
 
 - Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
