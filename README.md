@@ -15,7 +15,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Problem solver
 #### Self-starter
-#### Excellent Communicator
+#### Excellent communicator
 #### Strong work ethic
 
 #### Another Skill
