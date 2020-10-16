@@ -11,11 +11,9 @@ Lancaster University philosophy graduate, former sales executive and former fitn
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 #### Problem solver
 
-In order to undertake a degree in philosophy, one must possess an analytical mind and a natural inquisitiveness. These factors, along with the logical thinking skills developed during my degree and the obsessive focus I put into any activity I commit to, have moulded me into a competent problem solver. From March 2020 to September 2020 I completed over 400 kata on Codewars, in my [Codewars repository](https://github.com/malachispencer/codewars) you can view my 'write ups'. A write up includes my solution, one or two solutions from other Codewars users and detailed explanations for all of those solutions.
+In order to undertake a degree in philosophy, one must possess an analytical mind and a natural inquisitiveness. These traits, along with the logical thinking skills developed during my degree and the obsessive focus I put into any activity I commit to, have moulded me into a competent problem solver. From March 2020 to September 2020 I completed over 400 kata on Codewars, in my [Codewars repository](https://github.com/malachispencer/codewars) you can view my 'write ups'. A write up includes my solution, one or two solutions from other Codewars users and detailed explanations for all of those solutions.
 
 #### Excellent communicator
 
@@ -23,48 +21,54 @@ Studying philosophy has also bestowed me with the ability to take complex ideas 
 
 #### Strong work ethic
 
-Motivated and ambitious, I have never shied away from endeavours which require hard work and dedication. In my time bodybuilding, I trained 5-6 times per day, consumed 4000-5000 calories per day and never strayed from the program. Work ethic is important to me and discipline is deeply ingrained in me. In my time teaching myself to code, it was not uncommon for me to spend 10-12 hours a day coding. Most importantly, I enjoyed it.
+Motivated and ambitious, I have never shied away from endeavours which require hard work and dedication. In my time bodybuilding, I trained 5-6 times per day, consumed 4000-5000 calories per day and never strayed from the program. Work ethic is important to me and discipline is deeply ingrained in me. In my time teaching myself to code, it was not uncommon for me to spend 10-12 hours a day coding. Most importantly, I enjoyed it. In my [hypertrophy-home repository](https://github.com/malachispencer/hypertrophy-home), you can see the fruits of my bodybuilding labour and coding labour collide.
 
-#### Another Skill
+#### Adaptable
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+From fitness, to tutoring, to sales, I have experience in a diverse range of fields. In my time at Lancaster University, I spent one year abroad at McMaster University in Hamilton, Ontario, Canada. Study in Canada was more intense, involving more concurrent deadlines, this was something I had to adapt to. I'm comfortable outside of my comfort zone and willing to take on new challenges, develop new skills and grow.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2020 to January 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Lancaster University (2012 to 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Hons Philosophy
+- 2:1
+- 2013/14 did year abroad at McMaster University in Hamilton, Ontario, Canada
 
-#### Any other qualifications
+#### City & Islington Sixth Form College (2010 to 2012)
 
-That in some arguable way make you a better software developer or well-rounded person
+- A Levels in Philosophy, History, English Language & Literature
+- AS Level in Politics
+
+#### Copland Community School (2004 to 2009)
+
+- 11 GCSEs
+
+## Experience
+
+**MOB45/Gymbox** (June 2018 - )  
+Receptionist
+
+**Private Tutor** (January 2018 to June 2018)
+
+**The Regent's Place Health Club** (October 2017 - January 2018)
+Receptionist
+
+**Private Tutor** (March 2017 - October 2017)
+
+**Clark White Publications Ltd** (August 2015 - February 2017)
+Sales Executive
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Love watching football, die hard Arsenal fan. Also watch a lot of boxing.
+- Physically active myself, currently running and boxing are the main sports I do regularly.
+- Speaking at toastmasters, member of the London Business School Speaking Club.
+- Travelling, meeting new people and experiencing different cultures.
