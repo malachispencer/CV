@@ -53,18 +53,36 @@ From fitness, to tutoring, to sales, I have experience in a diverse range of fie
 
 ## Experience
 
-**MOB45/Gymbox** (June 2018 - )  
+**MOB45/Gymbox** (June 2018 - )
+
 Receptionist
+
+- Built excellent rapport with members and guests.
+- Administrative tasks involved great deal of attention to detail. 
 
 **Private Tutor** (January 2018 to June 2018)
 
+- Tutored KS2, KS3 and GCSE children in English Language and English Literature.
+- Had to develop a tailored approach to each student based on level and temperement.
+
 **The Regent's Place Health Club** (October 2017 - January 2018)
+
 Receptionist
+
+- Built excellent rapport with members and guests.
+- Administrative tasks involved great deal of attention to detail. 
 
 **Private Tutor** (March 2017 - October 2017)
 
+- Tutored KS2, KS3 and GCSE children in English Language and English Literature.
+- Had to develop a tailored approach to each student based on level and temperement.
+
 **Clark White Publications Ltd** (August 2015 - February 2017)
+
 Sales Executive
+
+- Sold print advertising over the phone for a global maagzine.
+- Had to build and maintain relationships with clients.
 
 ## Hobbies
 
