@@ -1,14 +1,14 @@
 ## Malachi Spencer
 
-Lancaster University philosophy graduate, former sales executive and former fitness/bodybuilding [YouTuber](https://www.youtube.com/hypertrophyofficial), I am now looking to make the transition into the world of tech. In January 2020, I started learning Ruby and the fundamentals of programming, by March, I had officially developed an addiction to coding - the [400+ kata](https://www.codewars.com/users/mjsspencer) I've completed on Codewars can attest to that. In June 2020, I started learning JavaScript and in September I created 2 web apps, [Skynet Chat](https://github.com/malachispencer/skynet-chat) and [SkyRooms](https://github.com/malachispencer/skyrooms). Now - at Makers Academy - I'm looking to build on the self-taught skills I've acquired and land a role as a back end junior developer.
+Lancaster University philosophy graduate, former sales executive and former fitness/bodybuilding [YouTuber](https://www.youtube.com/hypertrophyofficial), I am now looking to make the transition into the world of tech. In January 2020, I started learning Ruby and the fundamentals of programming, by March, I had officially developed an addiction to coding - the [400+ kata](https://www.codewars.com/users/mjsspencer) I've completed on Codewars can attest to that. In June 2020, I started learning JavaScript and in September I created 2 web apps, [Skynet Chat](https://skynet-chat.herokuapp.com) and [SkyRooms](https://skyrooms-ms.herokuapp.com). Now - at Makers Academy - I'm looking to build on the self-taught skills I've acquired and land a role as a back end junior developer.
 
 ## Projects
 
 | Name                         | Description       | Technologies Used |
 | ---------------------------- | ----------------- | ----------------- |
 | **MakersBnB**                             | An AirBnB clone where a user can book a place to stay and also rent out their own spaces to other users. My first team project at Makers. [Source code](https://github.com/alexleesonmill/makers-bnb-the-empire).                | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS.                  |
-| **SkyRooms**                 | Real time chat application with users and rooms. My second web application and an upgrade on my first, Skynet Chat. Completed before starting at Makers. You can view SkyRooms [here](https://github.com/malachispencer/skyrooms). | JavaScript, Node.js, Express.js, Socket.io, jQuery, HTML and CSS. |
-| **Skynet Chat**              | Chat application where the user interacts with the computer, which responds with random responses. My first ever web application, completed prior to Makers. You can view the app [here](https://github.com/malachispencer/skynet-chat). | JavaScript, jQuery, HTML and CSS.              |
+| **SkyRooms**                 | Real time chat application with users and rooms. My second web application and an upgrade on my first, Skynet Chat. Completed before starting at Makers. You can use SkyRooms [here](https://skyrooms-ms.herokuapp.com) and view the source code [here](https://github.com/malachispencer/skyrooms). | JavaScript, Node.js, Express.js, Socket.io, jQuery, HTML and CSS. |
+| **Skynet Chat**              | Chat application where the user interacts with the computer, which responds with random responses. My first ever web application, completed prior to Makers. You can use Skynet Chat [here](https://skynet-chat.herokuapp.com) and view the source code [here](https://github.com/malachispencer/skynet-chat). | JavaScript, jQuery, HTML and CSS.              |
 
 ## Skills
 
