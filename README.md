@@ -64,24 +64,28 @@ Studying philosophy has bestowed me with the ability to take complex ideas and e
 Receptionist
 
 - Built excellent rapport with members and guests.
-- Administrative tasks involved great deal of attention to detail. 
+- Responsible for banking, debtors and pending memberships.
+- Dealt with enquiries via email, phone and in person.
+- Performing trail checks, updating logs for site repairs and maintenance.
 
 **Private Tutor** (January 2018 to June 2018)
 
 - Tutored KS2, KS3 and GCSE children in English Language and English Literature.
-- Had to develop a tailored approach to each student based on level and temperement.
+- Delivering lessons tailored to the student's needs.
+- Sourced my own students using Tutora (now Tutorful).
 
 **The Regent's Place Health Club** (October 2017 - January 2018)
 
 Receptionist
 
-- Built excellent rapport with members and guests.
-- Administrative tasks involved great deal of attention to detail. 
+- Built excellent rapport with members and guests as first point of contact.
+- Responsible for dealing with queries, booking classes, processing memberships and cancellations.
 
 **Private Tutor** (March 2017 - October 2017)
 
 - Tutored KS2, KS3 and GCSE children in English Language and English Literature.
-- Had to develop a tailored approach to each student based on level and temperement.
+- Delivering lessons tailored to the student's needs.
+- Sourced my own students using Tutora (now Tutorful).
 
 **Clark White Publications Ltd** (August 2015 - February 2017)
 
@@ -89,6 +93,7 @@ Sales Executive
 
 - Sold print advertising over the phone for a global maagzine.
 - Had to build and maintain relationships with clients.
+- Raised the profile of the magazine at relevant shows.
 
 ## Hobbies
 
