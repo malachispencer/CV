@@ -25,10 +25,6 @@ Much of my time at Makers involved building applications in teams. As a result, 
 
 Comfortable working in a team, I am also adept at working on my own intitiative. Whether it was sourcing my own students as a private tutor or starting my own YouTube channel, the evidence of this is clear. Before even joining Makers - a bootcamp which strongly emphasises the importance of self-directed learning - I taught myself how to code, managing my own time and structuring my own learning, successfully. My enthusiasm, passion and dilligence will ensure that I won't require hand holding in any role.
 
-#### Excellent communicator
-
-Studying philosophy has bestowed me with the ability to take complex ideas and explain them in a concise, easy to understand manner, this goes for both written and verbal communication. In order to have a YouTube channel, solid communication is a must, you can see a short, one minute example of my verbal communication [here](https://www.youtube.com/watch?v=EFkbAElCcUw&ab_channel=Hypertrophy). Additionally, I am a member of Toastmasters' London Business School Speaking club and prior to COVID-19 disruptions attended meetings weekly, taking on roles and speaking consistently.
-
 ####
 
 ## Education
