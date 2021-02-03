@@ -4,12 +4,12 @@ Lancaster University philosophy graduate, former sales executive and former fitn
 
 ## Projects
 
-| Name                         | Description       | Technologies Used |
+| Name                         | Description       | Technologies Used | 
 | ---------------------------- | ----------------- | ----------------- |
-| **Laetus** | Android/iOS mobile app where a user can take a picture - or upload a picture from their gallery - tap on any part of the image and retrieve the exact colour of the pixel tapped on, the user can also view more details about the colour on another page, including its cmyk, rgb, complimentary colour and more. Makers final project. [Source code](https://github.com/AdamusBG/laetus). See a short demo of the app [here](https://www.youtube.com/watch?v=C5DurMEqJ-Q&feature=youtu.be&ab_channel=AdamG). | Flutter/Dart. |
-| **MakersBnB**                             | A site where users can list and rent spaces to stay. First engineering project at Makers. [Source code](https://github.com/malachispencer/makers-bnb).                | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS.                  |
-| **SkyRooms**                 | Real time chat application with users and rooms. My second web application and an upgrade on my first, Skynet Chat. Completed before starting at Makers. You can use SkyRooms [here](https://skyrooms-ms.herokuapp.com) and view the source code [here](https://github.com/malachispencer/skyrooms). | JavaScript, Node.js, Express.js, Socket.io, jQuery, HTML and CSS. |
-| **Skynet Chat**              | Chat application where the user interacts with the computer, which responds with random responses. My first ever web application, completed prior to Makers. You can use Skynet Chat [here](https://skynet-chat.herokuapp.com) and view the source code [here](https://github.com/malachispencer/skynet-chat). | JavaScript, jQuery, HTML and CSS.              |
+| **Laetus** | Android/iOS mobile app where a user can retrieve the colour of any pixel of an image, and get more details about the colour. Makers final project. [Source code](https://github.com/AdamusBG/laetus). See a short demo of the app [here](https://www.youtube.com/watch?v=C5DurMEqJ-Q&feature=youtu.be&ab_channel=AdamG). | Flutter/Dart. |
+| **MakersBnB** | A site where users can list and rent spaces to stay. First engineering project at Makers. [Source code](https://github.com/malachispencer/makers-bnb). | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS. |
+| **SkyRooms** | Real time chat application with users and rooms. My second web application and an upgrade on my first, Skynet Chat. Completed before starting at Makers. [Source code](https://github.com/malachispencer/skyrooms). | JavaScript, Node.js, Express.js, Socket.io, jQuery, HTML and CSS. |
+| **Skynet Chat** | Chat application where the user interacts with the computer, which responds with random responses. My first ever web application, completed prior to Makers. [Source code](https://github.com/malachispencer/skynet-chat). | JavaScript, jQuery, HTML and CSS. |
 
 ## Skills
 
