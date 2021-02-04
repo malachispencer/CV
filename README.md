@@ -27,18 +27,17 @@ I am an active listener that takes in information from my environment and this p
 
 #### Self starter
 
-Comfortable working in a team, I am also adept at working on my own intitiative. Whether it was sourcing my own students as a private tutor or starting my own YouTube channel, the evidence of this is clear. Before even joining Makers - a bootcamp which strongly emphasises the importance of self-directed learning - I taught myself how to code, managing my own time and structuring my own learning, successfully. My enthusiasm, passion and dilligence will ensure that I won't require hand holding in any role.
+Comfortable working in a team, I am also adept at working on my own intitiative. Whether it was sourcing my own students as a private tutor or starting my own YouTube channel, the evidence of this is clear. Before even joining Makers - a bootcamp which strongly emphasises the importance of self-directed learning - I taught myself how to code, managing my own time and structuring my own learning, successfully. My enthusiasm, passion and dilligence will ensure that I won't require hand holding in any role. 
 
 ## Education
 
 #### Makers Academy (October 2020 to January 2021)
 
-- Object oriented programming
-- Test Driven Development
-- Model-view-controller software design pattern
-- Agile/XP
-- Ruby, Sinatra, Rails, RSpec, Capybara
-- JavaScript, Node, Express, Jasmine, Jest
+- Utilised pair programming to effectively collaborate with team members.
+- Built scaleable, modular applications using object-oriented programming.
+- Followed the TDD process to build flexible, maintainable programs.
+- Acquired experience in the model-view-controller software design pattern.
+- Had to deal with new challenges every week, learning new frameworks and languages.
 
 #### Lancaster University (2012 to 2015)
 
@@ -61,41 +60,38 @@ Comfortable working in a team, I am also adept at working on my own intitiative.
 
 Receptionist
 
-- Built excellent rapport with members and guests.
-- Responsible for banking, debtors and pending memberships.
-- Dealt with enquiries via email, phone and in person.
-- Performing trail checks, updating logs for site repairs and maintenance.
+- Used my interpersonal skills to build excellent rapport with members and guests.
+- Attention to detail was important when dealing with banking, debtors and pending memberships.
 
 **Private Tutor** (January 2018 to June 2018)
 
-- Tutored KS2, KS3 and GCSE children in English Language and English Literature.
-- Delivering lessons tailored to the student's needs.
-- Sourced my own students using Tutora (now Tutorful).
+- Required good time management and organisation to manage my own schedule.
+- Showed initiative to source my own students through Tutora.
+- Used my communication and leadership skills to teach effectively.
 
 **The Regent's Place Health Club** (October 2017 - January 2018)
 
 Receptionist
 
-- Built excellent rapport with members and guests as first point of contact.
-- Responsible for dealing with queries, booking classes, processing memberships and cancellations.
+- Used my interpersonal skills to build excellent rapport with members and guests.
+- Attention to detail was important when dealing with banking, debtors and pending memberships.
 
 **Private Tutor** (March 2017 - October 2017)
 
-- Tutored KS2, KS3 and GCSE children in English Language and English Literature.
-- Delivering lessons tailored to the student's needs.
-- Sourced my own students using Tutora (now Tutorful).
+- Required good time management and organisation to manage my own schedule.
+- Showed initiative to source my own students through Tutora.
+- Used my communication and leadership skills to teach effectively.
 
 **Clark White Publications Ltd** (August 2015 - February 2017)
 
 Sales Executive
 
-- Sold print advertising over the phone for a global maagzine.
-- Had to build and maintain relationships with clients.
-- Raised the profile of the magazine at relevant shows.
+- Used my communication skills to build and maintain relationships with clients.
+- Worked under pressure to hit monthly revenue targets.
 
 ## Hobbies
 
 - Love watching football, lifelong Arsenal fan. Also watch a lot of boxing.
-- Physically active myself, currently running and boxing are the main sports I do regularly.
+- Physically active myself, currently running is the main sport I do regularly.
 - Speaking at toastmasters, member of the London Business School Speaking Club.
 - Travelling, meeting new people and experiencing different cultures.
