@@ -9,7 +9,7 @@ Lancaster University philosophy graduate, former sales executive and former fitn
 | **Laetus** | Android/iOS mobile app where a user can retrieve the colour of any pixel of an image, and get more details about the colour. Makers final project. See a short demo of the app [here](https://www.youtube.com/watch?v=C5DurMEqJ-Q&feature=youtu.be&ab_channel=AdamG). View the source code [here](https://github.com/malachispencer/laetus). | Flutter/Dart. |
 | **MakersBnB** | A site where users can list and rent spaces to stay. First engineering project at Makers. Use MakersBnB [here](https://makersbnb-ms.herokuapp.com/). View the source code [here](https://github.com/malachispencer/makers-bnb). | Ruby, Sinatra, PostgreSQL, HTML, Bootstrap, CSS, RSpec, Capybara. |
 | **SkyRooms** | Real time chat application with users and rooms. My second web application and an upgrade on my first, Skynet Chat. Completed before starting at Makers. Use SkyRooms [here](https://skyrooms-ms.herokuapp.com). View the source code [here](https://github.com/malachispencer/skyrooms). | JavaScript, Node.js, Express.js, Socket.io, jQuery, HTML and CSS. |
-| **Skynet Chat** | Chat application where the user interacts with the computer, which responds with random responses. My first ever web application, completed prior to Makers. Use Skynet Chat [here](https://skynet-chat.herokuapp.com). View the source code [here](https://github.com/malachispencer/skynet-chat). | JavaScript, jQuery, HTML and CSS. |
+| **Skynet Chat** | Chat application where the user interacts with the computer, which responds with random responses. My first ever web application, completed prior to Makers. Use Skynet Chat [here](https://skynet-chat.herokuapp.com). View the source code [here](https://github.com/malachispencer/skynet-chat). | JavaScript, Node.js, Express.js, jQuery, HTML and CSS. |
 
 ## Skills
 
@@ -27,7 +27,7 @@ I am an active listener that takes in information from my environment and this p
 
 #### Self starter
 
-Comfortable working in a team, I am also adept at working on my own intitiative. Whether it was sourcing my own students as a private tutor or starting my own YouTube channel, the evidence of this is clear. Before even joining Makers - a bootcamp which strongly emphasises the importance of self-directed learning - I taught myself how to code, managing my own time and structuring my own learning, successfully. My enthusiasm, passion and dilligence will ensure that I won't require hand holding in any role. 
+Comfortable working in a team, I am also adept at working on my own intitiative. Whether it was sourcing my own students as a private tutor or starting my own YouTube channel, the evidence of this is clear. Before even joining Makers - a bootcamp which strongly emphasises the importance of self-directed learning - I taught myself how to code, managing my own time and structuring my own learning, successfully. My enthusiasm, passion and dilligence will ensure that I won't require hand holding in any role.
 
 ## Education
 
