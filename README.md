@@ -35,7 +35,7 @@ Comfortable working in a team, I am also adept at working on my own intitiative.
 
 - Utilised pair programming to effectively collaborate with team members.
 - Had to deal with new challenges every week, learning new frameworks and languages.
-- Built scaleable, modular applications using object-oriented programming.
+- Built scalable, modular applications using object-oriented programming.
 - Followed the TDD process to build flexible, maintainable programs.
 
 #### Lancaster University (2012 to 2015)
