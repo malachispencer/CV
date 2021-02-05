@@ -1,15 +1,15 @@
 ## Malachi Spencer
 
-Lancaster University philosophy graduate, former sales executive and former fitness/bodybuilding [YouTuber](https://www.youtube.com/hypertrophyofficial), I am now looking to make the transition into the world of tech. In January 2020, I started learning Ruby and the fundamentals of programming, by March, I had officially developed an addiction to coding - the [400+ kata](https://www.codewars.com/users/mjsspencer) I've completed on Codewars can attest to that. In June 2020, I started learning JavaScript and in September I created 2 web apps, [Skynet Chat](https://skynet-chat.herokuapp.com) and [SkyRooms](https://skyrooms-ms.herokuapp.com). In October, I enrolled at Makers Academy, where I built on my self-taught skills, grounding myself in best practices such as object-oriented programming, test driven development and agile processes. Now, having recently graduated Makers, I am looking to land a role as a junior developer.
+Lancaster University philosophy graduate, former sales executive and former fitness/bodybuilding [YouTuber](https://www.youtube.com/hypertrophyofficial), I am now looking to make the transition into the world of tech. In January 2020, I started learning Ruby and the fundamentals of programming, by March, I had officially developed an addiction to coding - the [400+ kata](https://www.codewars.com/users/mjsspencer) I've completed on Codewars can attest to that. In June 2020, I started learning JavaScript and in September I created 2 web apps, [Skynet Chat](https://skynet-chat.herokuapp.com) and [SkyRooms](https://skyrooms-ms.herokuapp.com). In October, I enrolled at Makers Academy, where I built on my self-taught skills, grounding myself in best practices such as object-oriented programming, test driven development and agile processes. Now, having recently graduated Makers, I am looking to land a challenging role offering long term progression.
 
 ## Projects
 
 | Name                         | Description       | Technologies Used | 
 | ---------------------------- | ----------------- | ----------------- |
-| **Laetus** | Android/iOS mobile app where a user can retrieve the colour of any pixel of an image, and get more details about the colour. Makers final project. See a short demo of the app [here](https://www.youtube.com/watch?v=C5DurMEqJ-Q&feature=youtu.be&ab_channel=AdamG). View the source code [here](https://github.com/malachispencer/laetus). | Flutter/Dart. |
-| **MakersBnB** | A site where users can list and rent spaces to stay. First engineering project at Makers. Use MakersBnB [here](https://makersbnb-ms.herokuapp.com/). View the source code [here](https://github.com/malachispencer/makers-bnb). | Ruby, Sinatra, PostgreSQL, HTML, Bootstrap, CSS, RSpec, Capybara. |
-| **SkyRooms** | Real time chat application with users and rooms. My second web application and an upgrade on my first, Skynet Chat. Completed before starting at Makers. Use SkyRooms [here](https://skyrooms-ms.herokuapp.com). View the source code [here](https://github.com/malachispencer/skyrooms). | JavaScript, Node.js, Express.js, Socket.io, jQuery, HTML and CSS. |
-| **Skynet Chat** | Chat application where the user interacts with the computer, which responds with random responses. My first ever web application, completed prior to Makers. Use Skynet Chat [here](https://skynet-chat.herokuapp.com). View the source code [here](https://github.com/malachispencer/skynet-chat). | JavaScript, Node.js, Express.js, jQuery, HTML and CSS. |
+| **Laetus** | Android/iOS mobile app where a user can retrieve the colour of any pixel of an image, and get more details about the colour. Makers final project. See a short demo of the app [here](https://www.youtube.com/watch?v=C5DurMEqJ-Q&feature=youtu.be&ab_channel=AdamG). View the source code [here](https://github.com/malachispencer/laetus). | Flutter, Dart |
+| **MakersBnB** | A site where users can list and rent spaces to stay. First engineering project at Makers. Use MakersBnB [here](https://makersbnb-ms.herokuapp.com/). View the source code [here](https://github.com/malachispencer/makers-bnb). | Ruby, Sinatra, PostgreSQL, HTML, Bootstrap, CSS, RSpec, Capybara |
+| **SkyRooms** | Real time chat application with users and rooms. My second web application and an upgrade on my first, Skynet Chat. Completed before starting at Makers. Use SkyRooms [here](https://skyrooms-ms.herokuapp.com). View the source code [here](https://github.com/malachispencer/skyrooms). | JavaScript, Node, Express, Socket.io, jQuery, HTML and CSS |
+| **Skynet Chat** | Chat application where the user interacts with the computer, which responds with random responses. My first ever web application, completed prior to Makers. Use Skynet Chat [here](https://skynet-chat.herokuapp.com). View the source code [here](https://github.com/malachispencer/skynet-chat). | JavaScript, Node, Express, jQuery, HTML and CSS |
 
 ## Skills
 
@@ -34,10 +34,9 @@ Comfortable working in a team, I am also adept at working on my own intitiative.
 #### Makers Academy (October 2020 to January 2021)
 
 - Utilised pair programming to effectively collaborate with team members.
+- Had to deal with new challenges every week, learning new frameworks and languages.
 - Built scaleable, modular applications using object-oriented programming.
 - Followed the TDD process to build flexible, maintainable programs.
-- Acquired experience in the model-view-controller software design pattern.
-- Had to deal with new challenges every week, learning new frameworks and languages.
 
 #### Lancaster University (2012 to 2015)
 
@@ -67,7 +66,7 @@ Receptionist
 
 - Required good time management and organisation to manage my own schedule.
 - Showed initiative to source my own students through Tutora.
-- Used my communication and leadership skills to teach effectively.
+- Used my communication and leadership skills to teach my students effectively.
 
 **The Regent's Place Health Club** (October 2017 - January 2018)
 
@@ -80,7 +79,7 @@ Receptionist
 
 - Required good time management and organisation to manage my own schedule.
 - Showed initiative to source my own students through Tutora.
-- Used my communication and leadership skills to teach effectively.
+- Used my communication and leadership skills to teach my students effectively.
 
 **Clark White Publications Ltd** (August 2015 - February 2017)
 
