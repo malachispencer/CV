@@ -51,33 +51,45 @@ I am an active listener that takes in information from my environment and this p
 
 ## Experience
 
-**MOB45/Gymbox**, Receptionist (June 2018 - Present)
+**MOB45/Gymbox** (June 2018 - Present)
+
+Receptionist
 
 - Used my interpersonal skills to build excellent rapport with members and guests.
 - Attention to detail was important when dealing with banking, debtors and pending memberships.
 
-**Hypertrophy**, YouTuber (March 2017 - March 2019)
+**Hypertrophy** (March 2017 - March 2019)
+
+YouTuber
 
 - Used my charisma and personality to build a following of almost 10,000 subscribers.
 - Utilised my communication skills to provide science-based training and nutrition advice in a manner that was concise and easily digestable.
 - Used my creativity to edit all my own videos in Adobe Premiere Pro as well as create my own theme and [branding look and feel](https://github.com/malachispencer/hypertrophy-home).
 
-**Self Employed**, Private Tutor (January 2018 - June 2018)
+**Self Employed** (January 2018 - June 2018)
+
+Private Tutor
 
 - Required good time management and organisation to manage my own schedule.
 - Used my communication and leadership skills to teach my students effectively.
 
-**The Regent's Place Health Club**, Receptionist (October 2017 - January 2018)
+**The Regent's Place Health Club** (October 2017 - January 2018)
+
+Receptionist
 
 - Used my interpersonal skills to build excellent rapport with members and guests.
 - Attention to detail was important when dealing with banking, debtors and pending memberships.
 
-**Self Employed**, Private Tutor (March 2017 - October 2017)
+**Self Employed** (March 2017 - October 2017)
+
+Private Tutor
 
 - Required good time management and organisation to manage my own schedule.
 - Used my communication and leadership skills to teach my students effectively.
 
-**Clark White Publications Ltd**, Sales Executive (August 2015 - February 2017)
+**Clark White Publications Ltd** (August 2015 - February 2017)
+
+Sales Executive
 
 - Used my communication skills to build and maintain relationships with clients.
 - Worked under pressure to hit monthly revenue targets.
