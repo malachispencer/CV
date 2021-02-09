@@ -13,9 +13,9 @@ Lancaster University philosophy graduate, former sales executive and former fitn
 
 ## Skills
 
-#### Problem solver
+#### Problem solving
 
-In order to undertake a degree in philosophy, one must possess an analytical mind and a natural inquisitiveness. These traits, along with the logical thinking skills developed during my degree and the obsessive focus I put into any activity I commit to, have moulded me into a competent problem solver. From March 2020 to September 2020 I completed over 400 kata on Codewars, in my [Codewars repository](https://github.com/malachispencer/codewars) you can view my 'write ups'. A write up includes my solution, one or two solutions from other Codewars users and detailed explanations for all of those solutions. Crucially, this dexerity in problem solving was integral in surmounting a major sticking point the group faced during my Makers final project, namely, implementing the main feature of our app, the pixel colour detection feature.
+In order to undertake a degree in philosophy, one must possess an analytical mind and a natural inquisitiveness. These traits, along with the logical thinking skills developed during my degree and the obsessive focus I put into any activity I commit to, have moulded me into a competent problem solver. From March 2020 to September 2020 I completed over 400 kata on Codewars, in my [Codewars repository](https://github.com/malachispencer/codewars) you can view my 'write ups'. A write up includes my solution, one or two solutions from other Codewars users and detailed explanations for all of those solutions. Crucially, this dexterity in problem solving was integral in surmounting a major sticking point the group faced during my Makers final project, namely, implementing the main feature of our app, the pixel colour detection feature.
 
 #### Teamwork
 
@@ -23,22 +23,18 @@ Much of my time at Makers involved building applications in teams. As a result, 
 
 #### Communication
 
-I am an active listener that takes in information from my environment and this proved valuable when producing content on YouTube, as it allowed me to be empathetic to my viewers of how they would view my content. It was also integral when communicating in a pressurised environment during my Makers final project, allowing me to understand the perspectives of my teammates and hence we could coordinate our knowledge sharing and task delegation more effectively. On the speaking side, studying philosophy has bestowed me with the ability to take complex ideas and explain them in a concise, easy to understand manner, this goes for both written and verbal communication and was important when teaching my students as a private tutor. Always seeking self-improvement, I am a member of Toastmaster's London Business School Speaking Club and prior to COVID-19 disruptions attended meetings weekly, taking on roles and speaking consistently.
-
-#### Self starter
-
-Comfortable working in a team, I am also adept at working on my own intitiative. Whether it was sourcing my own students as a private tutor or starting my own YouTube channel, the evidence of this is clear. Before even joining Makers - a bootcamp which strongly emphasises the importance of self-directed learning - I taught myself how to code, managing my own time and structuring my own learning, successfully. My enthusiasm, passion and dilligence will ensure that I won't require hand holding in any role.
+I am an active listener that takes in information from my environment and this proved valuable when producing content on YouTube, as it allowed me to be empathetic to my viewers of how they would view my content. It was also integral when communicating in a pressurised environment during my Makers final project, allowing me to understand the perspectives of my teammates and hence we could coordinate our knowledge sharing and task delegation more effectively. On the speaking side, studying philosophy has bestowed me with the ability to take complex ideas and explain them in a concise, easy to understand manner, this goes for both written and verbal communication and was important when teaching my students as a private tutor.
 
 ## Education
 
-#### Makers Academy (October 2020 to January 2021)
+#### Makers Academy (October 2020 - January 2021)
 
 - Utilised pair programming to effectively collaborate with team members.
 - Had to deal with new challenges every week, learning new frameworks and languages.
 - Built scalable, modular applications using object-oriented programming.
 - Followed the TDD process to build flexible, maintainable programs.
 
-#### Lancaster University (2012 to 2015)
+#### Lancaster University (2012 - 2015)
 
 - BA Hons Philosophy
 - 2:1
@@ -49,20 +45,28 @@ Comfortable working in a team, I am also adept at working on my own intitiative.
 - A Levels in Philosophy, History, English Language & Literature
 - AS Level in Politics
 
-#### Copland Community School (2004 to 2009)
+#### Copland Community School (2004 - 2009)
 
 - 11 GCSEs
 
 ## Experience
 
-**MOB45/Gymbox** (June 2018 - )
+**MOB45/Gymbox** (June 2018 - Present)
 
 Receptionist
 
 - Used my interpersonal skills to build excellent rapport with members and guests.
 - Attention to detail was important when dealing with banking, debtors and pending memberships.
 
-**Private Tutor** (January 2018 to June 2018)
+**Hypertrophy** (March 2017 - March 2019)
+
+YouTuber
+
+- Used my charisma and personality to build a following of almost 10,000 subscribers.
+- Utilised my communication skills to provide science-based training and nutrition advice in a manner that was concise and easily digestable.
+- Used my creativity to edit all my own videos in Adobe Premiere Pro as well as create my own theme and [branding look and feel](https://github.com/malachispencer/hypertrophy-home).
+
+**Private Tutor** (January 2018 - June 2018)
 
 - Required good time management and organisation to manage my own schedule.
 - Showed initiative to source my own students through Tutora.
