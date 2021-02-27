@@ -63,7 +63,7 @@ Receptionist
 YouTuber
 
 - Used my charisma and personality to build a following of almost 10,000 subscribers.
-- Utilised my communication skills to provide science-based training and nutrition advice in a manner that was concise and easily digestable.
+- Utilised my communication skills to provide science-based training and nutrition advice in a manner that was concise and easily digestible.
 - Used my creativity to edit all my own videos in Adobe Premiere Pro as well as create my own theme and [branding look and feel](https://github.com/malachispencer/hypertrophy-home).
 
 **Self Employed** (January 2018 - June 2018)
